@@ -1,5 +1,33 @@
 # ui
 
+## 1.7.1
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.7.1
+- @copilotkit/shared@1.7.1
+
+## 1.7.1-next.0
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.7.1-next.0
+- @copilotkit/shared@1.7.1-next.0
+
+## 1.7.0
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.7.0
+- @copilotkit/shared@1.7.0
+
+## 1.7.0-next.1
+
+### Patch Changes
+
+- @copilotkit/runtime-client-gql@1.7.0-next.1
+- @copilotkit/shared@1.7.0-next.1
+
 ## 1.7.0-next.0
 
 ### Patch Changes
