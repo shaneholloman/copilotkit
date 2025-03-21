@@ -1,5 +1,9 @@
 # @copilotkit/shared
 
+## 1.8.0-next.3
+
+## 1.7.2-next.2
+
 ## 1.7.2-next.1
 
 ## 1.7.2-next.0
